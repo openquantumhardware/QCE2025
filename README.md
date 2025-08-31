@@ -2,6 +2,8 @@
 
 Demos for https://qce.quantum.ieee.org/2025/tutorials-abstracts/#tut08.
 
+Slides here: https://docs.google.com/presentation/d/1Igmhrl_Z8FyVmjl6bU0ChWi8WpsrpmJPGxK-dlYL3I4/edit?slide=id.g37653c0fe17_0_816#slide=id.g37653c0fe17_0_816 
+
 ## Hardware configuration
 
 Install daughtercards as follows:
